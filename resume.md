@@ -1,5 +1,5 @@
 # Debabrata Das
-- <debabrata.dd@gmail.com> | +91 9833818079 | E-905, Swapnalok, Kale Padal Road, Pune-412308, Maharashtra, India
+- <debabrata.dd@gmail.com> | +91 9833818079 | Pune, Maharashtra, India
 - [LinkedIn](https://www.linkedin.com/in/debabrata-dd/) | [CodeProject](https://www.codeproject.com/Members/Debabrata_Das) | [Codewars](https://www.codewars.com/users/debabrata-dd) | [FaceBook](https://www.facebook.com/debabrata.das.773124)
 ***
 
@@ -132,8 +132,8 @@ to the target system (e.g. Oracle or SQL Server).
 - Microsoft Certified Professional | [microsoft.com](https://www.microsoft.com/) | Apr 2012
 
 #### **EDUCATION**
-- Postgraduate Diploma in Computer Application (PGDCA) | DOEACC | 2006
-- Bachelor of Commerce | University of Calcutta, India | 2000
+- Postgraduate Diploma in Computer Application (PGDCA) | [DOEACC](http://www.nielit.gov.in/) | 2006
+- Bachelor of Commerce | [University of Calcutta, India](https://www.caluniv.ac.in/) | 2000
 
 #### **HOBBIES**
 ##### `Coding` `Painting` `Singing` `Playing Badminton`
