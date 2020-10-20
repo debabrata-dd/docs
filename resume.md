@@ -1,6 +1,6 @@
 # Debabrata Das
 - <debabrata.dd@gmail.com> | (+91) 9833818079 | Pune, Maharashtra, India
-- [LinkedIn](https://www.linkedin.com/in/debabrata-dd/) | [CodeProject](https://www.codeproject.com/Members/Debabrata_Das) | [Codewars](https://www.codewars.com/users/debabrata-dd) | [FaceBook](https://www.facebook.com/debabrata.das.773124)
+- [LinkedIn](https://www.linkedin.com/in/debabrata-dd/) | [CodeProject](https://www.codeproject.com/Members/debabrata-dd) | [Codewars](https://www.codewars.com/users/debabrata-dd) | [FaceBook](https://www.facebook.com/debabrata.das.773124)
 ***
 
 #### **OBJECTIVE**
