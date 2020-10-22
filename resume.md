@@ -21,7 +21,7 @@ Seeking a responsible and challenging position in a growth oriented progressive 
 ##### `Problem Solving` `Design Thinking` `Agile-Scrum` `Teamwork` `Creativity` `Dev-Ops` `Web Development` `.NET` `ASP.NET MVC` `C#` `HTML5` `CSS` `JavaScript` `RDBMS` `SQL Server` `Oracle` `NoSQL` `MongoDB` `ReactJS` `NodeJS`
 
 #### **TOOLS**
-##### `Visual Studio` `GitHub` `Jenkins` `Octopus` `Postman` `Dynatrace` `Jira` `VersionOne` `ServiceNow` `Splunk` `Visio` `Slack` `MS Teams` `MS Office`
+##### `Visual Studio` `GitHub` `Jenkins` `Octopus` `Postman` `OpenAPI` `Dynatrace` `Jira` `VersionOne` `ServiceNow` `Splunk` `Visio` `Slack` `MS Teams` `MS Office`
 
 #### **WORK EXPERIENCES**
 ##### `Allstate Solutions Private Limited` _(May 2015 – Till Date)_
