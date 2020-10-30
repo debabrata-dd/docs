@@ -9,6 +9,7 @@ Seeking a responsible and challenging position in a growth oriented progressive 
 #### **SUMMARY**
 - A growth oriented professional with 14+ years of exposure in the complete Software Development Life Cycle.
 - Good experience working with ASP.NET MVC, C#, Web API, HTML5, CSS, JavaScript, NodeJS, ReactJS, MongoDB, SQL Server and Oracle.
+- Hands on experience creating CI-CD pipeline in Azure.
 - Experience in onshore/offshore model for project delivery.
 - Strong knowledge of software product development using Agile methodology (Scrum).
 - Ability to understand and analyze issues and uses judgment to make decisions.
@@ -20,7 +21,7 @@ Seeking a responsible and challenging position in a growth oriented progressive 
 ##### `Problem Solving` `Design Thinking` `Agile-Scrum` `Teamwork` `Creativity` `Dev-Ops` `Web Development` `.NET` `ASP.NET MVC` `C#` `HTML5` `CSS` `JavaScript` `RDBMS` `SQL Server` `Oracle` `NoSQL` `MongoDB` `ReactJS` `NodeJS`
 
 #### **TOOLS**
-##### `Visual Studio` `GitHub` `Jenkins` `Octopus` `Postman` `OpenAPI` `Dynatrace` `Jira` `VersionOne` `ServiceNow` `Splunk` `Visio` `Slack` `MS Teams` `MS Office`
+##### `Visual Studio` `GitHub` `Jenkins` `Octopus` `Postman` `OpenAPI` `Azure` `Dynatrace` `Jira` `VersionOne` `ServiceNow` `Splunk` `Visio` `Slack` `MS Teams` `MS Office`
 
 #### **WORK EXPERIENCES**
 ##### `Allstate Solutions Private Limited` _(May 2015 – Till Date)_
