@@ -18,10 +18,13 @@ Seeking a responsible and challenging position in a growth oriented progressive 
 - Passionate about technology and finding a more efficient solution to any give problem.
 
 #### **SKILLS / TECHNOLOGIES**
-##### `Problem Solving` `Design Thinking` `Agile-Scrum` `Teamwork` `Creativity` `Dev-Ops` `Web Development` `.NET` `ASP.NET MVC` `C#` `HTML5` `CSS` `JavaScript` `RDBMS` `SQL Server` `Oracle` `NoSQL` `MongoDB` `ReactJS` `NodeJS`
-
-#### **TOOLS**
-##### `Visual Studio` `GitHub` `Jenkins` `Octopus` `Postman` `OpenAPI` `Azure` `Dynatrace` `Jira` `VersionOne` `ServiceNow` `Splunk` `Visio` `Slack` `MS Teams` `MS Office`
+| **Category**      | **Skills / Tools**                                                                                                   |
+| ----------------- | ----------------------------------------------------                                                                 |
+| Soft Skills       | `Problem Solving`, `Critical Thinking`, `Communication`, `Team Work`, `Creativity`, `Emotional Intelligence`, `Attention to Detail`, `Responsibility` |
+| Technologies      | `Web Development`, `.NET Core`, `ASP.NET MVC`, `WebAPI`, `C#`, `HTML5`, `CSS`, `JavaScript`, `ReactJS`, `NodeJS`     |
+| Database          | `RDBMS`, `SQL Server`, `Oracle`, `NoSQL`, `MongoDB`                                                                  |
+| Development Tools | `Visual Studio` `GitHub` `Jenkins` `Octopus` `Postman` `OpenAPI` `Azure`                                             |
+| Other             | `Dynatrace` `Jira` `VersionOne` `ServiceNow` `Splunk` `Visio` `Slack` `MS Teams` `MS Office`                         |
 
 #### **WORK EXPERIENCES**
 ##### `Allstate Solutions Private Limited` _(May 2015 – Till Date)_
