@@ -136,7 +136,7 @@ to the target system (e.g. Oracle or SQL Server).
 
 #### **EDUCATION**
 - Postgraduate Diploma in Computer Application (PGDCA) | [DOEACC (Presently NIELIT)](http://www.nielit.gov.in/) | 2006
-- Bachelor of Commerce | [University of Calcutta, India](https://www.caluniv.ac.in/) | 2000
+- Bachelor of Commerce (B.COM.) | [University of Calcutta, India](https://www.caluniv.ac.in/) | 2000
 
 #### **HOBBIES**
 ##### `Coding` `Painting` `Singing` `Playing Badminton`
