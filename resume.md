@@ -129,7 +129,7 @@ to the target system (e.g. Oracle or SQL Server).
 > It’s a Web-based activation-tracking program that allows master-agents to better manage their sub-agents for WorkSoftwareSystems, Canada. The program allows sub-agents to easily enter activation data into the master-agent’s WorkWireless RMS via their own Web-based WorkPortal interface, which is accessible from any computer with a connection to the Internet. The program works well for sub-agents because it allows them to enter activation records at the time of sale or later and for master-agents because it allows them to consolidate and manage all activation, commission, payroll and customer data, whether from individual sub-agents or their own stores, in to one application.
 
 #### **CERTIFICATIONS**
-- Product Management | [Udemy](https://www.udemy.com/certificate/UC-d2b537dc-22dd-423f-ae37-07ad7dba3658/) | Mar 2000
+- Product Management | [Udemy](https://www.udemy.com/certificate/UC-d2b537dc-22dd-423f-ae37-07ad7dba3658/) | Mar 2020
 - Professional Scrum Developer I | [scrum.org](https://www.scrum.org/certificates/268670) | Oct 2017
 - Certified Scrum Master | [scrumalliance.org](https://www.scrumalliance.org/community/profile/ddas39) | Feb 2016
 - Microsoft Certified Professional | [microsoft.com](https://www.microsoft.com/) | Apr 2012
