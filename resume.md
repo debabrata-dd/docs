@@ -23,7 +23,7 @@ Seeking a responsible and technically challenging position in a growth oriented 
 | Soft Skills       | `Problem Solving` `Critical Thinking` `Communication` `Team Work` `Creativity` `Emotional Intelligence` `Attention to Detail` `Responsibility` |
 | Technologies      | `Web Development` `.NET Core` `ASP.NET MVC` `WebAPI` `C#` `HTML5` `CSS` `JavaScript` `ReactJS` `Node.js`     |
 | Database          | `RDBMS` `SQL Server` `Oracle` `NoSQL` `MongoDB`                                                                  |
-| Development Tools | `Visual Studio` `Jenkins` `Octopus` `Postman` `OpenAPI` `Azure`                                             |
+| Development Tools | `Visual Studio` `Jenkins` `Octopus` `Postman` `OpenAPI` `Azure` `Docker`                                             |
 | Source Code Mgmt. | `TFS` `GitHub` |
 | Other             | `Dynatrace` `Jira` `VersionOne` `ServiceNow` `Splunk` `Visio` `Slack` `MS Teams` `MS Office`                         |
 
