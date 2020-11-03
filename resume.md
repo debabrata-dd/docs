@@ -4,11 +4,11 @@
 ***
 
 #### **OBJECTIVE**
-Seeking a responsible and challenging position in a growth oriented progressive organization where my experience and skills will significantly contribute to the overall success of the organization and provide opportunities for my career growth.
+Seeking a responsible and technically challenging position in a growth oriented progressive organization where my experience and skills will significantly contribute to the overall success of the organization and provide opportunities for my career growth.
 
 #### **SUMMARY**
-- A growth oriented professional with 14+ years of exposure in the complete Software Development Life Cycle.
-- Good experience working with ASP.NET MVC, C#, Web API, HTML5, CSS, JavaScript, NodeJS, ReactJS, MongoDB, SQL Server and Oracle.
+- A solution architect with 14+ years of exposure in the complete Software Development Life Cycle.
+- Good experience working with ASP.NET MVC, C#, Web API, HTML5, CSS, JavaScript, Node.js, ReactJS, MongoDB, SQL Server and Oracle.
 - Hands on experience creating CI-CD pipeline in Azure.
 - Experience in onshore/offshore model for project delivery.
 - Strong knowledge of software product development using Agile methodology (Scrum).
@@ -20,9 +20,9 @@ Seeking a responsible and challenging position in a growth oriented progressive 
 #### **SKILLS / TECHNOLOGIES**
 | **Category**      | **Skills / Tools**                                                                                                   |
 | ----------------- | ----------------------------------------------------                                                                 |
-| Soft Skills       | `Problem Solving`, `Critical Thinking`, `Communication`, `Team Work`, `Creativity`, `Emotional Intelligence`, `Attention to Detail`, `Responsibility` |
-| Technologies      | `Web Development`, `.NET Core`, `ASP.NET MVC`, `WebAPI`, `C#`, `HTML5`, `CSS`, `JavaScript`, `ReactJS`, `Node.js`     |
-| Database          | `RDBMS`, `SQL Server`, `Oracle`, `NoSQL`, `MongoDB`                                                                  |
+| Soft Skills       | `Problem Solving` `Critical Thinking` `Communication` `Team Work` `Creativity` `Emotional Intelligence` `Attention to Detail` `Responsibility` |
+| Technologies      | `Web Development` `.NET Core` `ASP.NET MVC` `WebAPI` `C#` `HTML5` `CSS` `JavaScript` `ReactJS` `Node.js`     |
+| Database          | `RDBMS` `SQL Server` `Oracle` `NoSQL` `MongoDB`                                                                  |
 | Development Tools | `Visual Studio` `Jenkins` `Octopus` `Postman` `OpenAPI` `Azure`                                             |
 | Source Code Mgmt. | `TFS` `GitHub` |
 | Other             | `Dynatrace` `Jira` `VersionOne` `ServiceNow` `Splunk` `Visio` `Slack` `MS Teams` `MS Office`                         |
