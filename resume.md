@@ -12,8 +12,8 @@ Seeking a responsible and challenging position in a growth oriented progressive 
 - Hands on experience creating CI-CD pipeline in Azure.
 - Experience in onshore/offshore model for project delivery.
 - Strong knowledge of software product development using Agile methodology (Scrum).
-- Ability to understand and analyze issues and uses judgment to make decisions.
-- Outstanding oral and written communication skills.
+- Ability to solve challenging technical problems with can do attitude
+- Excellent verbal, interpersonal and written communication skills. Comfortable speaking and presenting concepts in clear manner.
 - Ability to triage issues across multiple systems and drive technical issues to resolution.
 - Passionate about technology and finding a more efficient solution to any give problem.
 
@@ -21,9 +21,10 @@ Seeking a responsible and challenging position in a growth oriented progressive 
 | **Category**      | **Skills / Tools**                                                                                                   |
 | ----------------- | ----------------------------------------------------                                                                 |
 | Soft Skills       | `Problem Solving`, `Critical Thinking`, `Communication`, `Team Work`, `Creativity`, `Emotional Intelligence`, `Attention to Detail`, `Responsibility` |
-| Technologies      | `Web Development`, `.NET Core`, `ASP.NET MVC`, `WebAPI`, `C#`, `HTML5`, `CSS`, `JavaScript`, `ReactJS`, `NodeJS`     |
+| Technologies      | `Web Development`, `.NET Core`, `ASP.NET MVC`, `WebAPI`, `C#`, `HTML5`, `CSS`, `JavaScript`, `ReactJS`, `Node.js`     |
 | Database          | `RDBMS`, `SQL Server`, `Oracle`, `NoSQL`, `MongoDB`                                                                  |
-| Development Tools | `Visual Studio` `GitHub` `Jenkins` `Octopus` `Postman` `OpenAPI` `Azure`                                             |
+| Development Tools | `Visual Studio` `Jenkins` `Octopus` `Postman` `OpenAPI` `Azure`                                             |
+| Source Code Mgmt. | `TFS` `GitHub` |
 | Other             | `Dynatrace` `Jira` `VersionOne` `ServiceNow` `Splunk` `Visio` `Slack` `MS Teams` `MS Office`                         |
 
 #### **WORK EXPERIENCES**
