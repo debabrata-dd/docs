@@ -7,7 +7,7 @@
 Seeking a responsible and technically challenging position in a growth oriented progressive organization where my experience and skills will significantly contribute to the overall success of the organization and provide opportunities for my career growth.
 
 #### **SUMMARY**
-- A solution architect with 14+ years of exposure in the complete Software Development Life Cycle.
+- A full stack web developer with 14+ years of exposure in the complete Software Development Life Cycle.
 - Good experience working with ASP.NET MVC, C#, Web API, HTML5, CSS, JavaScript, Node.js, ReactJS, MongoDB, SQL Server and Oracle.
 - Hands on experience creating CI-CD pipeline in Azure.
 - Experience in onshore/offshore model for project delivery.
