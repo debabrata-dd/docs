@@ -93,19 +93,19 @@ to the target system (e.g. Oracle or SQL Server).
 >
 > IGATE’s proprietary solution accelerators including tools, utilities, templates, checklists, and best practices help customers reduce the risks normally associated with data conversion and consolidation. PAS consolidation is mainly used for data conversions from source (i.e. Mainframe) to target (e.g. Oracle/SQL Server) systems.
 
-> **NextGen Application** _(Jan 2010 – Dec 2013)_
->
-> NextGen is an n-tier web application, which interacts with various third-party vendor applications through integration system (TIBCO). It’s an end-to-end claim processing system built in ASP.NET. It is mainly designed to handle claims for Auto and Property line of business. The application is maintained across three shores (i.e. The U.S., Northern Ireland and India). More than 15K claims are being taken on an average per day.
->
-> The main database is maintained in Oracle. SQL Server has been used for session management and for logging errors. The application is built on a very rich architecture, which provides 90+ rich custom server controls. Different service classes have been provided by the architecture for various common functionalities.
-
 > **100+ FxCop Custom Rules** _(May 2012 – Jul 2012)_
 >
 > Created 100+ FxCop Custom Rules as per the client specific coding standard rules. Maintaining coding standard was a big challenge since more than 80 developers working together from three different shores. The rules helped to automate check of coding standard across projects. 
 > 
 > It was a challenging project since we had no prior exposure working with FxCop. I was appreciated by the client as well as the management as I played a key role in driving the project and writing maximum number of the rules with in a stipulated time.
 
-> **iCUBE – Credit Collection System** _(Aug 2009 – Dec 2009)_
+> **NextGen Application** _(Jan 2010 – Dec 2013)_
+>
+> NextGen is an n-tier web application, which interacts with various third-party vendor applications through integration system (TIBCO). It’s an end-to-end claim processing system built in ASP.NET. It is mainly designed to handle claims for Auto and Property line of business. The application is maintained across three shores (i.e. The U.S., Northern Ireland and India). More than 15K claims are being taken on an average per day.
+>
+> The main database is maintained in Oracle. SQL Server has been used for session management and for logging errors. The application is built on a very rich architecture, which provides 90+ rich custom server controls. Different service classes have been provided by the architecture for various common functionalities.
+
+> **iCUBE – Credit Collection System** _(Aug 2009 – Sep 2009)_
 >
 > iCUBE is a package widely used for the collection process of ICICI Bank. It has various modules for uploading data, outbound CRM, reporting tool etc. It takes various inputs (like, customer details, loan details, payment details, etc.) in the form of Excel files. Those files were analyzed scrubbed and uploaded on the database to generate customer contact base. It had a CRM tightly integrated with telecom for customer relation. Based on all these operations, system is able to generate various useful analytical reports for MIS.
 
@@ -116,6 +116,10 @@ to the target system (e.g. Oracle or SQL Server).
 > **OPEN Magazine** _(Mar 2009 – May 2009)_
 >
 > RPG Publications, the newly floated print media venture of the RPG Group, has launched its feature and current affairs weekly magazine - OPEN, by end of March 2009. Therefore, to land the product in the current market scenario where there are already many players are competing in cut throat competition, RPG had decided to rely upon the telesales services provided by us. So, we provided complete software solutions to promote their business, like an e-mailer tool, an inbound/outbound CRM, web reports and data scrubbing tool.
+
+> **WFH - NIIT Imperia** _(Dec 2008 – Jan 2009)_
+>
+> WFH (work from home), as the name implies, the prime goal of this project (NIIT Imperia) was to give a platform to the agents so that they can call the customers from their home. It was a great achievement when we finally deployed the application and agents started taking calls from their home.
 
 > **Agent Monitoring System** _(Jun 2008 – Jul 2008)_
 >
@@ -128,6 +132,10 @@ to the target system (e.g. Oracle or SQL Server).
 > **Work Portal** _(Aug 2006 – Nov 2006)_
 >
 > It’s a Web-based activation-tracking program that allows master-agents to better manage their sub-agents for WorkSoftwareSystems, Canada. The program allows sub-agents to easily enter activation data into the master-agent’s WorkWireless RMS via their own Web-based WorkPortal interface, which is accessible from any computer with a connection to the Internet. The program works well for sub-agents because it allows them to enter activation records at the time of sale or later and for master-agents because it allows them to consolidate and manage all activation, commission, payroll and customer data, whether from individual sub-agents or their own stores, in to one application.
+
+> **WSS POS** _(Oct 2005 – Nov 2006)_
+>
+> At Sys-Con Engineering I was a part of the team dedicated to develop software and provide support for this Canadian client WSS (Work Software Systems), especially their fast growing flagship retail product POS.
 
 #### **CERTIFICATIONS**
 - Product Management | [Udemy](https://www.udemy.com/certificate/UC-d2b537dc-22dd-423f-ae37-07ad7dba3658/) | Mar 2020
